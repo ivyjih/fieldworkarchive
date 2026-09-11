@@ -25,5 +25,3 @@ permalink: /weeks/week-01/
 ## NEXT MOVE｜下一步
 
 如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
-
-![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
