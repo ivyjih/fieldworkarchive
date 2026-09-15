@@ -8,7 +8,7 @@ permalink: /weeks/week-02/
 # 證據如何成立？
 
 > 請保留具體的現場、材料、語句或身體感受。
-![共同繪製的教室導航地圖]({{ '/assets/images/map0908.jpg' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/evidence0915.jpg' | relative_url }}) 
 
 ## TRACE｜痕跡
 
