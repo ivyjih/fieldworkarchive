@@ -15,9 +15,11 @@ permalink: /weeks/week-03/
 1. 製作簡易的地面回畫裝置。
 
 ![偏離原始用途的證據]({{ '/assets/images/evidence0915.jpg' | relative_url }}) 
+
 2. 組員的地面回畫圖像，可能依據走路方式、速度以及筆的固定位置產生不同結果。 (依序為: 左上-紜辰、左下-我、右上-邦智、右下-沛璇)
 
 ![偏離原始用途的證據]({{ '/assets/images/evidence0915.jpg' | relative_url }}) 
+
 3. 我的軌跡在 app 內的紀錄，室內定位有誤差，但多少還是有呼應回畫圖像。
 
 ## FRICTION｜摩擦
