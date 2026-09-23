@@ -12,6 +12,7 @@ permalink: /weeks/week-03/
 ## TRACE｜痕跡
 
 ![偏離原始用途的證據]({{ '/assets/images/evidence0915.jpg' | relative_url }}) 
+
 製作簡易的地面回畫裝置。
 
 ![偏離原始用途的證據]({{ '/assets/images/evidence0915.jpg' | relative_url }}) 
