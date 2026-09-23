@@ -11,15 +11,15 @@ permalink: /weeks/week-03/
 
 ## TRACE｜痕跡
 
-![偏離原始用途的證據]({{ '/assets/images/pen0922.jpg' | relative_url }}) 
+![裝置]({{ '/assets/images/pen0922.jpg' | relative_url }}) 
 
 製作簡易的地面回畫裝置。
 
-![偏離原始用途的證據]({{ '/assets/images/drawing0922.jpg' | relative_url }}) 
+![圖像]({{ '/assets/images/drawing0922.jpg' | relative_url }}) 
 
 組員的地面回畫圖像，可能依據走路方式、速度以及筆的固定位置產生不同結果。 (依序為: 左上-紜辰、左下-我、右上-邦智、右下-沛璇)
 
-![偏離原始用途的證據]({{ '/assets/images/route0922.jpg' | relative_url }}) 
+![app紀錄]({{ '/assets/images/route0922.jpg' | relative_url }}) 
 
 我的軌跡在 app 內的紀錄，室內定位有誤差，但多少還是有呼應回畫圖像。
 
