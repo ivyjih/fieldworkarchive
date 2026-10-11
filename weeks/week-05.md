@@ -15,7 +15,7 @@ permalink: /weeks/week-05/
 將調配好的蝶豆花海藻酸溶液擠入氯化鈣凝固液中，製作藍色的海藻線，考驗力道控制。
 
 ![海藻2]({{ '/assets/images/alginate021006.jpg' | relative_url }}) 
-用海藻線編織好的海藻繩結。
+用海藻線編織好的海藻繩結，滴入酸性、鹼性溶液測試顏色變化。
 
 ![海藻3]({{ '/assets/images/alginate031006.jpg' | relative_url }}) 
 另一組做的海藻線放在碗裡很像冬粉。
