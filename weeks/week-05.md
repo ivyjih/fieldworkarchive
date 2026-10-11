@@ -12,7 +12,7 @@ permalink: /weeks/week-05/
 ## TRACE｜痕跡
 
 ![海藻1]({{ '/assets/images/alginate011006.jpg' | relative_url }}) 
-將調配好的蝶豆花海藻酸溶液擠入氯化鈣凝固液中，製作藍色的海藻線。
+將調配好的蝶豆花海藻酸溶液擠入氯化鈣凝固液中，製作藍色的海藻線，考驗力道控制。
 
 ![海藻2]({{ '/assets/images/alginate021006.jpg' | relative_url }}) 
 用海藻線編織好的海藻繩結。
