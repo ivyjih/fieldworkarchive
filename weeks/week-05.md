@@ -11,9 +11,9 @@ permalink: /weeks/week-05/
 
 ## TRACE｜痕跡
 
-![精油]({{ '/assets/images/essentialoil0929.jpg' | relative_url }}) 
-![精油]({{ '/assets/images/essentialoil0929.jpg' | relative_url }}) 
-![精油]({{ '/assets/images/essentialoil0929.jpg' | relative_url }}) 
+![精油]({{ '/assets/images/alginate011006.jpg' | relative_url }}) 
+![精油]({{ '/assets/images/alginate021006.jpg' | relative_url }}) 
+![精油]({{ '/assets/images/alginate031006.jpg' | relative_url }}) 
 
 ## FRICTION｜摩擦
 
