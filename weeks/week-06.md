@@ -12,6 +12,12 @@ permalink: /weeks/week-06/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![康普茶]({{ '/assets/images/alginate011006.jpg' | relative_url }}) 
+將調配好的蝶豆花海藻酸鈉溶液擠入氯化鈣凝固液中，製作藍色的海藻線，考驗力道控制。
+
+![酸種1]({{ '/assets/images/alginate011006.jpg' | relative_url }}) 
+將調配好的蝶豆花海藻酸鈉溶液擠入氯化鈣凝固液中，製作藍色的海藻線，考驗力道控制。
+
 
 ## FRICTION｜摩擦
 
