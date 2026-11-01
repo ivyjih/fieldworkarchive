@@ -13,14 +13,19 @@ permalink: /weeks/week-07/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 ![酸種1]({{ '/assets/images/sourdough2-1.jpg' | relative_url }}) 
+10/20 一週後晚上餵養前的酸種
 
 ![酸種2]({{ '/assets/images/sourdough2-2.jpg' | relative_url }}) 
+10/20 一週後晚上餵養後的酸種
 
 ![酸種3]({{ '/assets/images/sourdough2-3.jpg' | relative_url }}) 
+10/21早上 前晚餵養後過了一個晚上，準備進冰箱休眠~
 
 ![酸種4]({{ '/assets/images/sourdough3-1.jpg' | relative_url }}) 
+10/26 在冰箱冬眠了5天的酸種，味道好像沒那麼恐怖了
 
 ![酸種5]({{ '/assets/images/sourdough3-2.jpg' | relative_url }}) 
+11/2 冬眠了近兩週的酸種，顏色變得比較深，味道比較回到單純醋味，還活著嗎?
 
 
 ## FRICTION｜摩擦
