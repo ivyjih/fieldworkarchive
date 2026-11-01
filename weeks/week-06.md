@@ -17,8 +17,13 @@ permalink: /weeks/week-06/
 ![酸種1]({{ '/assets/images/sourdough011013.jpg' | relative_url }}) 
 我第二天的酸種，表面起泡了，味道有點像優格，尚未開始餵養。第一天的沒拍到，就是新的麵粉糊，味道很香，麵團界的小寶寶，或是有點像麵茶的味道。
 
-![酸種1]({{ '/assets/images/sourdough011013.jpg' | relative_url }}) 
+![酸種2]({{ '/assets/images/sourdough1-1.jpg' | relative_url }}) 
 
+![酸種3]({{ '/assets/images/sourdough1-2.jpg' | relative_url }}) 
+
+![酸種4]({{ '/assets/images/sourdough1-3.jpg' | relative_url }}) 
+
+![酸種5]({{ '/assets/images/sourdough1-4.jpg' | relative_url }}) 
 
 ## FRICTION｜摩擦
 
