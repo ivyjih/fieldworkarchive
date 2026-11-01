@@ -12,6 +12,16 @@ permalink: /weeks/week-07/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![酸種1]({{ '/assets/images/sourdough2-1.jpg' | relative_url }}) 
+
+![酸種2]({{ '/assets/images/sourdough2-2.jpg' | relative_url }}) 
+
+![酸種3]({{ '/assets/images/sourdough2-3.jpg' | relative_url }}) 
+
+![酸種4]({{ '/assets/images/sourdough3-1.jpg' | relative_url }}) 
+
+![酸種5]({{ '/assets/images/sourdough3-2.jpg' | relative_url }}) 
+
 
 ## FRICTION｜摩擦
 
