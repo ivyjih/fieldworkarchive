@@ -31,6 +31,14 @@ permalink: /weeks/week-08/
 | 冰淇淋 = 嚐起來如何 (可能特別關注嗅覺、觸覺，因為大多無法直接以味覺嘗試，以替代方式想像嚐起來是什麼口感、味道)
 
 原本在考慮使用哪個感官體驗是否需要透過卡牌指定，但是考慮到一些地點/物件可能本身就有所限制，所以原則上每一次都綜合視覺、聽覺、嗅覺、觸覺多個感官紀錄。
+
+![床]({{ '/assets/images/test011102.jpg' | relative_url }}) 
+
+![門]({{ '/assets/images/test021102.jpg' | relative_url }}) 
+
+![梯]({{ '/assets/images/test031102.jpg' | relative_url }}) 
+
+![冰]({{ '/assets/images/test041102.jpg' | relative_url }}) 
    
 3. 情境補充 -- 給觀者抽選情境小故事幫助想像體驗更完整，這部分還在構思中。
 
