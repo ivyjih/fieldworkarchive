@@ -36,7 +36,7 @@ permalink: /weeks/week-09/
 ## PROTOTYPE｜原型
 
 1. 虛擬地圖草稿繪製
-  
+ ![地圖]({{ '/assets/images/test051102.jpg' | relative_url }})  
 
 2. 透明圖卡材質測試
 ![床]({{ '/assets/images/test011102.jpg' | relative_url }})
